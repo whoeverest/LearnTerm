@@ -1,0 +1,20 @@
+[
+	{
+		"category": "programming", 
+		"topic": "git", 
+		"question": "How do you pull from repo?", 
+		"answer": "git pull"
+	},
+	{
+		"category": "programming", 
+		"topic": "git", 
+		"question": "How do you push to repo?", 
+		"answer": "git push"
+	},
+	{
+		"category": "random", 
+		"topic": "family", 
+		"question": "What\"s your mother\"s name?", 
+		"answer": "Rosica"
+	},
+]
